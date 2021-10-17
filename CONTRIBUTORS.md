@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Swapnamoy Das] (https://github.com/Swapnamoy951)
+- Place: Howrah
+- Bio: Web Developer Frontend HTML and CSS
+- Github: [Swapnamoy951] (https://github.com/Swapnamoy951)
